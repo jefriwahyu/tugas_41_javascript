@@ -2,7 +2,7 @@
 
 <b>Tujuan : </b>
 <ul>
-  <li>Memahami Fungsi onChange</li>
+  <li>Memahami Fungsi onChange.</li>
 </ul>
 
 <b>Output in browser : </b>
